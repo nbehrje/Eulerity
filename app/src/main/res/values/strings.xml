@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eulerity</string>
+    <string name="image_get_url">http://eulerity-hackathon.appspot.com/image</string>
+    <string name="image_upload_url">http://eulerity-hackathon.appspot.com/upload</string>
+</resources>
